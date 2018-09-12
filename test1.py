@@ -47,6 +47,11 @@ for item in l:
 
 print(dict1)
 
+name = 'liu'
+gender = 'male'
+
+print(name + gender)
+
 
 
 
